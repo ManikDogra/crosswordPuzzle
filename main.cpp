@@ -1,12 +1,3 @@
-/*
- * assignment1.cpp
- *
- * This application will search for a given word among a matrix of chars
- * in all 8 directions. The files will be read by ifstream objects
- * The location of the word, if found, will be displayed through cout
- *
- */
-
 #include <iostream>
 #include <string>
 #include <fstream>
