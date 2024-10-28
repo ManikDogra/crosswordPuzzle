@@ -14,8 +14,3 @@ This console-based program allows users to find words in a letter grid. Users ca
 ### Prerequisites
 - A C++ compiler
 - Basic understanding of console applications
-
-### How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
